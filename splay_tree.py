@@ -37,3 +37,4 @@ class SplayTree(Node):
         if x!=None:      
             self.splay(x)
          return x 
+##Splay to be written 
